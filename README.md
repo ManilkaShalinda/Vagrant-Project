@@ -1,5 +1,4 @@
-#Automated Multi-VM Web Application Deployment Project
-Overview.
+# Automated Multi-VM Web Application Deployment Project Overview.
 
 This project demonstrates the deployment of a Java and JavaScript-based web application in a local environment using Oracle VirtualBox, Vagrant, Ansible, and several supporting technologies. The goal is to automate the provisioning and configuration of multiple virtual machines (VMs) to host the application and its dependencies, ensuring efficient setup and scalability.
 
